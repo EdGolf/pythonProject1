@@ -1,0 +1,29 @@
+INFO 2023-07-28 13:23:24,890 autoreload 16120 17112 Watching for file changes with StatReloader
+INFO 2023-07-28 13:23:51,652 autoreload 16120 17112 C:\Users\eduar\PycharmProjects\pythonProject1\project\myproject\myproject\settings.py changed, reloading.
+INFO 2023-07-28 13:23:52,940 autoreload 17592 10264 Watching for file changes with StatReloader
+INFO 2023-07-28 13:25:56,854 autoreload 17592 10264 C:\Users\eduar\PycharmProjects\pythonProject1\project\myproject\myappgame\views.py changed, reloading.
+INFO 2023-07-28 13:25:58,027 autoreload 15596 2888 Watching for file changes with StatReloader
+INFO 2023-07-28 13:26:07,613 autoreload 15596 2888 C:\Users\eduar\PycharmProjects\pythonProject1\project\myproject\myappgame\views.py changed, reloading.
+INFO 2023-07-28 13:26:09,123 autoreload 11808 13120 Watching for file changes with StatReloader
+INFO 2023-07-28 13:28:01,033 autoreload 11808 13120 C:\Users\eduar\PycharmProjects\pythonProject1\project\myproject\myappgame\views.py changed, reloading.
+INFO 2023-07-28 13:28:02,366 autoreload 16976 8308 Watching for file changes with StatReloader
+INFO 2023-07-28 13:29:20,302 autoreload 16976 8308 C:\Users\eduar\PycharmProjects\pythonProject1\project\myproject\myappgame\views.py changed, reloading.
+INFO 2023-07-28 13:29:21,358 autoreload 18088 17144 Watching for file changes with StatReloader
+INFO 2023-07-28 13:29:31,099 autoreload 18088 17144 C:\Users\eduar\PycharmProjects\pythonProject1\project\myproject\myappgame\views.py changed, reloading.
+INFO 2023-07-28 13:29:32,452 autoreload 17884 4400 Watching for file changes with StatReloader
+INFO 2023-07-28 13:31:42,549 autoreload 17884 4400 C:\Users\eduar\PycharmProjects\pythonProject1\project\myproject\myapp\views.py changed, reloading.
+INFO 2023-07-28 13:31:43,701 autoreload 13580 12912 Watching for file changes with StatReloader
+INFO 2023-07-28 13:33:58,228 autoreload 13580 12912 C:\Users\eduar\PycharmProjects\pythonProject1\project\myproject\myapp\views.py changed, reloading.
+INFO 2023-07-28 13:33:59,473 autoreload 8020 14636 Watching for file changes with StatReloader
+INFO 2023-07-28 13:34:24,235 views 8020 14028 diceplay requested; cube-side: 1
+INFO 2023-07-28 13:34:24,238 basehttp 8020 14028 "GET /games/diceplay/ HTTP/1.1" 200 12
+INFO 2023-07-28 13:34:25,619 views 8020 14028 diceplay requested; cube-side: 4
+INFO 2023-07-28 13:34:25,621 basehttp 8020 14028 "GET /games/diceplay/ HTTP/1.1" 200 12
+INFO 2023-07-28 13:34:26,206 views 8020 14028 diceplay requested; cube-side: 4
+INFO 2023-07-28 13:34:26,207 basehttp 8020 14028 "GET /games/diceplay/ HTTP/1.1" 200 12
+INFO 2023-07-28 13:34:44,841 views 8020 14028 diceplay requested; cube-side: 6
+INFO 2023-07-28 13:34:44,842 basehttp 8020 14028 "GET /games/diceplay/ HTTP/1.1" 200 12
+INFO 2023-07-28 13:34:45,034 views 8020 14028 diceplay requested; cube-side: 2
+INFO 2023-07-28 13:34:45,035 basehttp 8020 14028 "GET /games/diceplay/ HTTP/1.1" 200 12
+INFO 2023-07-28 13:34:51,940 views 8020 14028 Index page accessed
+INFO 2023-07-28 13:34:51,941 basehttp 8020 14028 "GET / HTTP/1.1" 200 13
